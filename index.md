@@ -14,8 +14,7 @@ una alumna del liceo francisco matute .
 
 * la musica 
 * salir 
-* La Playa
-*otras cosas mas 
+* estar con mis amigos 
 
 # Esto es un H1
 
