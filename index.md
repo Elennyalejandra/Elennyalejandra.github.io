@@ -8,7 +8,7 @@ title: Página de proyectos del alumno Alan Brito
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
 
 ## ¿Quién soy? 
-una alumna del liceo francisco matute .
+Una Alumna del liceo francisco matute .
 
 ## ¿Qué me gusta?
 
