@@ -4,18 +4,18 @@ title: Página de proyectos del alumno Alan Brito
 ---
 
 
-# Página de proyectos del alumno Alan Brito
+# Página de proyectos de la alumna Elenny zerpa
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
 
 ## ¿Quién soy? 
-Soy un Alumno apasionado por el Aprendizaje, compartir ideas, me gustan los debates y sacar 20 en todas las materias, nunca me copio porque se que tengo la capacidad de hacer lo mejor.
+una alumna del liceo francisco matute .
 
 ## ¿Qué me gusta?
 
-* Informática
-* Chocolate
+* la musica 
+* salir 
 * La Playa
-* La buena música
+*otras cosas mas 
 
 # Esto es un H1
 
@@ -30,7 +30,7 @@ Soy un Alumno apasionado por el Aprendizaje, compartir ideas, me gustan los deba
 ###### Esto es un H6
 
 * [Francisco Matute en Facebook](https://www.facebook.com/UEE.Francisco.Matute)
-* <https://profesor.neftaliyagua.com.ve>
+* <https://Alumna .Elenny Zerpa.com.ve>
 
 Este es el primer párrafo.
 
